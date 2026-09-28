@@ -1,0 +1,9 @@
+# 单文件打包版(体积巨大, 不走 git, 改用分散文件版)
+聊天记录.html
+聊天记录-文字+语音.html
+wechat_export_standalone.html
+wechat_export_voice.html
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
